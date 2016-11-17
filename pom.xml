@@ -149,7 +149,7 @@
 				<artifactId>tomcat7-maven-plugin</artifactId>
 				<configuration>
 				    <!--端口和虚拟目录-->
-					<port>80</port>
+					<port>8080</port>
 					<path>/audio</path>
 				</configuration>
 			</plugin>
